@@ -1,0 +1,27 @@
+{
+	"name": "security-trace",
+	"version": "0.0.0",
+	"description": "Security trace protocol.",
+	"main": "security-trace.js",
+	"scripts": {
+		"test": "node ./security-trace.test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/volkovasystem/security-trace.git"
+	},
+	"keywords": [
+		"security-trace",
+		"security",
+		"trace"
+	],
+	"author": "Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+	"contributors": [
+		"Richeve S. Bebedor <richeve.bebedor@gmail.com>"
+	],
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/volkovasystem/security-trace/issues"
+	},
+	"homepage": "https://github.com/volkovasystem/security-trace#readme"
+}
